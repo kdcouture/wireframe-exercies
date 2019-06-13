@@ -1,0 +1,6 @@
+#Logo {
+  display: inline-flex;
+  border: darkgrey solid 2px;
+  background-color: lightgrey;
+  padding: 0em 1em;
+}
