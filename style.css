@@ -4,3 +4,10 @@
   background-color: lightgrey;
   padding: 0em 1em;
 }
+
+#TopBannerBox {
+  width: 200px;
+  background-color: lightgrey;
+  border: darkgrey solid 2px;
+  margin: 0px;
+}
